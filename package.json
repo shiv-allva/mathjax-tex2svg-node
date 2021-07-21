@@ -1,0 +1,16 @@
+{
+  "name": "tex2svg",
+  "version": "1.0.0",
+  "description": "converts tex to svg",
+  "main": "converter.js",
+  "scripts": {
+    "start": "node converter.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "mathjax": "^3.2.0"
+  }
+}
